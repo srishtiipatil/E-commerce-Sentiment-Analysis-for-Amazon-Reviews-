@@ -21,5 +21,5 @@ Libraries: NLTK, Scikit-learn, TensorFlow/Keras, Pandas, Matplotlib, Seaborn
 
 
 📊 **Outcomes** <br>
-A trained sentiment classification model for customer reviews.
+A trained sentiment classification model for customer reviews. <br>
 Insights into the most common positive and negative keywords.
