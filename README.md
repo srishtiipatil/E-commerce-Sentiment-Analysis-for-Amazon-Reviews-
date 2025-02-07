@@ -20,6 +20,6 @@ Programming Languages: Python <br>
 Libraries: NLTK, Scikit-learn, TensorFlow/Keras, Pandas, Matplotlib, Seaborn
 
 
-📊 ** Outcomes** <br>
+📊 **Outcomes** <br>
 A trained sentiment classification model for customer reviews.
 Insights into the most common positive and negative keywords.
