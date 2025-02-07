@@ -1,5 +1,4 @@
 # E-commerce-Sentiment-Analysis-for-Amazon-Reviews-
-This project analyzes 34,000+ Amazon reviews to predict sentiment (Positive, Negative, Neutral) using NLP, ML, and data visualization to assess customer satisfaction and product performance.
 
 
 📌 Introduction
