@@ -16,11 +16,10 @@ Develop an interactive dashboard for sentiment visualization.
 
 
 🛠️ **Tech Stack** <br>
-Programming Languages: Python
+Programming Languages: Python <br>
 Libraries: NLTK, Scikit-learn, TensorFlow/Keras, Pandas, Matplotlib, Seaborn
 
 
-📊 **Expected Outcomes** <br>
+📊 ** Outcomes** <br>
 A trained sentiment classification model for customer reviews.
 Insights into the most common positive and negative keywords.
-A potential recommendation system based on sentiment trends.
